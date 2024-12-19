@@ -120,5 +120,5 @@ Uygulamanın kullanıcı arayüzü **JavaFX** kullanılarak oluşturulmuştur. T
 •	Veritabanı bağlantı bilgileri ve kullanıcı yönetim bilgileri, **UserController** ve **DatabaseConnection** sınıflarında saklanmaktadır.<br>
 •	**Proje**, **Strategy**, **Factory**, **Singleton** ve **State** tasarım desenlerini kullanarak esnek ve sürdürülebilir bir yapıya sahiptir.<br>
 
-**Diğer Takım Arkadaşım:HATİCE FAKSH**
+Diğer Takım Arkadaşım:(https://github.com/HaticeFAKS)
 
