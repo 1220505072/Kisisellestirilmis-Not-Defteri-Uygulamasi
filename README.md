@@ -1,4 +1,4 @@
-**HAMZA CAN ALTINTOP-1220505072**\n
+**HAMZA CAN ALTINTOP-1220505072**
 **Kullanıcı Yönetim Sistemi (User Management System)**
 Bu proje, JavaFX kullanarak geliştirilmiş bir Kullanıcı Yönetim Sistemi'dir. Sistemde, adminler kullanıcı ekleyebilir. Kullanıcılar, sisteme giriş yapabilir ve notlarını yönetebilir. Her kullanıcı, belirli bir rol (admin, user, employee) ile sisteme erişim sağlar.
 
